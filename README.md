@@ -1,4 +1,6 @@
-## Hi there 👋
+## This is my WGU GitHub profile for WGU related assignments and tasks.
+
+As of when I made this README, I am working on Java Frameworks.
 
 <!--
 **ashermcdavitt-wgu/ashermcdavitt-wgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
